@@ -5,8 +5,10 @@
 -->
 My name is Alexandra Pateraki and I live in Chania. I am studying Electrical and Computer Engeneering in Technical Univesity of Crete, currently working on my diploma in Network-friendly Recommendations for Multicast Content.
 
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPateraki&layout=compact) 
-  
+</p>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp;
