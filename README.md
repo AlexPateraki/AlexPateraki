@@ -5,5 +5,4 @@
 -->
 My name is Alexandra Pateraki and I live in Chania. I am studying Electrical and Computer Engeneering in Technical Univesity of Crete, currently working on my diploma in Reinforcement Learning.
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPateraki&layout=compact) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPateraki&layout=compact) 
