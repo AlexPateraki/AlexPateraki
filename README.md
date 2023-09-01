@@ -3,7 +3,7 @@
 <!--
 **AlexPateraki/AlexPateraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-My name is Alexandra Pateraki and I live in Chania. I am studying Electrical and Computer Engeneering in Technical Univesity of Crete, currently working on my diploma in Network-friendly Recommendations for Multicast Content.
+My name is Alexandra Pateraki and I live in Chania. I am studying Electrical and Computer Engeneering in Technical Univesity of Crete, currently working on my thesis in Network-friendly Recommendations for Multicast Content.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPateraki&layout=compact) 
